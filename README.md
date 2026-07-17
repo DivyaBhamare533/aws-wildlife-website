@@ -1,5 +1,3 @@
-<img width="1887" height="908" alt="image" src="https://github.com/user-attachments/assets/a80c3760-7a83-4d1a-ac5b-25b3d4184071" /># 🦁 AWS Wildlife Website
-
 A responsive wildlife-themed website hosted using Amazon Web Services (AWS). This project demonstrates cloud hosting by deploying a static website with HTML, CSS, and JavaScript.
 
 ## 📌 Project Overview
@@ -55,7 +53,8 @@ aws-wildlife-website/
 ## 📸 Screenshots
 
 <img width="1887" height="908" alt="image" src="https://github.com/user-attachments/assets/8aaebcd9-512f-418b-a6d7-3c01f21a026a" />
-![Uploading image.png…]()
+<img width="1881" height="806" alt="image" src="https://github.com/user-attachments/assets/898ba9cb-9237-44d3-a5d8-5eba812e7d5e" />
+
 
 
 
