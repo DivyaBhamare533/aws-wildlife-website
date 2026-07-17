@@ -1,5 +1,3 @@
-A responsive wildlife-themed website hosted using Amazon Web Services (AWS). This project demonstrates cloud hosting by deploying a static website with HTML, CSS, and JavaScript.
-
 ## 📌 Project Overview
 
 The AWS Wildlife Website is a static web application designed to showcase wildlife information with a modern and responsive user interface. The project is deployed on AWS, allowing users to access it over the internet.
