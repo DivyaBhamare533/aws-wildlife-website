@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wildlife Explorer</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<div class="container">
+
+    <h1>🦁 Wildlife Explorer System</h1>
+    <p>AI Powered Animal Detection using AWS Rekognition</p>
+
+    <div class="uploadBox">
+
+        <input type="file" id="imageInput" accept="image/*">
+
+        <img id="preview">
+
+        <button onclick="uploadImage()">
+            Upload Image
+        </button>
+
+    </div>
+
+    <div class="result">
+
+        <h2>Detection Result</h2>
+
+        <p id="status">Waiting for upload...</p>
+
+        <table>
+
+            <tr>
+                <th>Image</th>
+                <th>Animal</th>
+                <th>Confidence</th>
+                <th>Time</th>
+            </tr>
+
+            <tbody id="tableBody">
+
+            </tbody>
+
+        </table>
+
+    </div>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
